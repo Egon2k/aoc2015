@@ -23,7 +23,7 @@ def part2(data):
 if __name__ == "__main__":
     data = []
 
-    with open('day2/data.txt') as f:
+    with open('day02/data.txt') as f:
         for line in f:
             data.append(line.strip())
 
